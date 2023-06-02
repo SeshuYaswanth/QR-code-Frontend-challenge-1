@@ -71,7 +71,7 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 ## Author
 
 - gitHub - [Seshu Yaswanth Reddy](https://github.com/SeshuYaswanth)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@SeshuYaswanth](https://www.frontendmentor.io/profile/SeshuYaswanth)
 
 ## Acknowledgments
 
